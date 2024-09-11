@@ -1,4 +1,3 @@
 welcome
 i am learning devops
 hello world
-hi everyone
